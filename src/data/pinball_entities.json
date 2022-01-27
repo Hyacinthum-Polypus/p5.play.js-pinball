@@ -1,0 +1,94 @@
+{
+  "array": [
+    {
+      "x": 0.208,
+      "y": 0.6514285714285715,
+      "type": "BOUNCER",
+      "flipped": false
+    },
+    {
+      "x": 0.7906666666666666,
+      "y": 0.6468571428571429,
+      "type": "BOUNCER",
+      "flipped": true
+    },
+    {
+      "x": 0.148,
+      "y": 0.15314285714285714,
+      "type": "SILVER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.244,
+      "y": 0.104,
+      "type": "SILVER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.8653333333333333,
+      "y": 0.15428571428571428,
+      "type": "SILVER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.7813333333333333,
+      "y": 0.10971428571428571,
+      "type": "SILVER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.33166666666666667,
+      "y": 0.08942857197352819,
+      "type": "BRONZE ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.685,
+      "y": 0.0951428576878139,
+      "type": "BRONZE ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.44333333333333336,
+      "y": 0.08228571483067104,
+      "type": "COPPER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.5583333333333333,
+      "y": 0.07942857197352818,
+      "type": "COPPER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.8933333333333333,
+      "y": 0.8137142862592425,
+      "type": "SILVER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.055,
+      "y": 0.7737142862592424,
+      "type": "SILVER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.4533333333333333,
+      "y": 0.33228571483067104,
+      "type": "COPPER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.565,
+      "y": 0.3294285719735282,
+      "type": "COPPER ASTEROID",
+      "flipped": false
+    },
+    {
+      "x": 0.5066666666666667,
+      "y": 0.2708571434020996,
+      "type": "BRONZE ASTEROID",
+      "flipped": false
+    }
+  ]
+}

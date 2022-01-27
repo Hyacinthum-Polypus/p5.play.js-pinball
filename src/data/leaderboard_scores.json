@@ -1,0 +1,35 @@
+{
+	"highscores": [{
+		"name": "David Quayle",
+		"score": 99999999999
+	},
+    {
+        "name": "Favio R.",
+        "score": 4019789370
+	},
+	{
+        "name": "Drew S.",
+        "score": 133184980
+	},
+    {
+        "name": "Christopher C.",
+        "score": 263350
+	},
+    {
+        "name": "Henry VIII",
+        "score": 120400
+	},
+    {
+        "name": "Nero",
+        "score": 430500
+	},
+    {
+        "name": "Andrew J.",
+        "score": 5700
+	},
+    {
+        "name": "William R.",
+        "score": 3500
+	}
+]
+}
