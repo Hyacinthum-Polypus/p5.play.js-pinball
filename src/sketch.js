@@ -1,5 +1,5 @@
 //DEBUG VARIABLES
-const DEVELOPER_MODE = true;
+const DEVELOPER_MODE = false;
 let clickedMousePositionX;
 let collisionVisibility = false;
 let selectedEntityType = 0;
@@ -576,7 +576,7 @@ function drawUI()
 
     if(DEVELOPER_MODE)
     {
-        text('Currently Selected\nEntity Type:\n' + entityTypes[selectedEntityType] + "\nFlip Mode:\n" + flipMode, playAreaWidth, 350);
+        text('Currently Selected\nEntity Type:\n' + entityTypes[selectedEntityType] + "\nFlip Mode:\n" + flipMode, playAreaWidth, canvasHeight - 300);
     }
 
     //Game over text.
