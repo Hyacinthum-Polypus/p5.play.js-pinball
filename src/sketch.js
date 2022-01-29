@@ -539,6 +539,7 @@ function draw()
             }
 
             //Draw demo video in the background of the menu.
+            background('black');
             image(demoVideo, 0, 0, playAreaWidth + uiAreaWidth, canvasHeight);
             demoVideo.volume(1);            
 
